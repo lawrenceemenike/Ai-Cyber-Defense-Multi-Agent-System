@@ -5,7 +5,7 @@
 [![Red Team](https://img.shields.io/badge/red%20team-100%25%20defense-success.svg)](./scripts/red_team_attack.py)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 
-A **production-ready, hardened multi-agent AI system** for autonomous cyber-defense with **40+ security components** implementing defense-in-depth architecture, cryptographic integrity verification, and behavioral anomaly detection.
+A **hardened multi-agent AI system** for autonomous cyber-defense with **40+ security components** implementing defense-in-depth architecture, cryptographic integrity verification, and behavioral anomaly detection.
 
 ## 🎯 Project Overview
 
